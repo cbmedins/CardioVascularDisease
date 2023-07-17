@@ -15,7 +15,7 @@ Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind
 
 
 
-| ![image](https://github.com/cbmedins/CardioVascularDisease/assets/70035225/7e183ea6-69ab-479b-8b8f-0c0fdf66ffcc)|
+| ![image](https://github.com/cbmedins/CardioVascularDisease/assets/70035225/05c1f64d-68b8-498d-917c-4363ea220f2e)
 | ------------------------------------------------------------------------------------------------------------- |
 
 
