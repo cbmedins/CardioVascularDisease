@@ -13,7 +13,9 @@ Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-| ![image](https://user-images.githubusercontent.com/1884712/93762662-a62e4700-fc2d-11ea-9b2c-fda9f503402b.png) |
+
+
+| ![image](https://github.com/cbmedins/CardioVascularDisease/assets/70035225/7e183ea6-69ab-479b-8b8f-0c0fdf66ffcc)|
 | ------------------------------------------------------------------------------------------------------------- |
 
 
