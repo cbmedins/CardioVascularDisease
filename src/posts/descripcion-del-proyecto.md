@@ -44,7 +44,7 @@ tags: second-tag
 
 ## Images
 
-![This is an alt text.](/static/img/icon.svg)
+![This is an alt text.](/static/img/towfiqu-barbhuiya-qsbfowmopny-unsplash.jpg)
 
 ## Links
 
