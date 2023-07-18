@@ -42,7 +42,7 @@ _You **can** combine them_
 
 ## Images
 
-![This is an alt text.](src/static/img/towfiqu-barbhuiya-qsbfowmopny-unsplash.jpg "This is a sample image.")
+![This is an alt text.](src/static/img/towfiqu-barbhuiya-qsbfowmopny-unsplash.jpg "This is a sample .")
 
 ## Links
 
