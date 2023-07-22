@@ -1,14 +1,13 @@
----
 links:
   - title: Descripción del proyecto
-    url: "/posts/descripcion-del-proyecto/"
+    url: /posts/descripcion-del-proyecto/
     desc: Breve introducción sobre el propósito de la aplicación.
   - title: Enfermedades Cardiovasculares
-    url: "https://www.11ty.dev/"
+    url: /
     desc: Contenido educativo sobre las enfermedades cardiovasculares.
   - title: Demostración interactiva
-    url: "https://github.com/alpinejs/alpine"
+    url: /
     desc: Demostración interactiva del modelo predictivo.
   - title: Enlaces a recursos adicionales
-    url: "https://tailwindcss.com/"
+    url: /
     desc: Recursos relacionados con las enfermedades cardiovasculares.
