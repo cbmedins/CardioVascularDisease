@@ -1,0 +1,13 @@
+links:
+  - title: Descripción del proyecto
+    url: /posts/descripcion-del-proyecto/
+    desc: Breve introducción sobre el propósito de la aplicación.
+  - title: Enfermedades Cardiovasculares
+    url: /
+    desc: Contenido educativo sobre las enfermedades cardiovasculares.
+  - title: Demostración interactiva
+    url: /
+    desc: Demostración interactiva del modelo predictivo.
+  - title: Enlaces a recursos adicionales
+    url: /
+    desc: Recursos relacionados con las enfermedades cardiovasculares.
